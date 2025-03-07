@@ -1,4 +1,4 @@
-#Find the median of two sorted arrays
+# Findthe median of two sorted arrays
 # step 1
 1. use push comments for merging two arrays in for loop
 2. then arrange ascending order 
